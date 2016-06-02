@@ -20,5 +20,5 @@ The system must offer :
 
 ## Authors
 
-zakaria220
-k-leed
+* zakaria220
+* k-leed
